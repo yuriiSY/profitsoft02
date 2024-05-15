@@ -1,0 +1,23 @@
+.optionBtn {
+  border-radius: 8px;
+  display: block;
+  width: 100px;
+  height: 40px;
+  background-color: hotpink;
+  margin-top: 20px;
+  cursor: pointer;
+}
+
+.submitBtn {
+  border-radius: 8px;
+  display: block;
+  width: 100px;
+  height: 40px;
+  background-color: greenyellow;
+  margin-top: 20px;
+  cursor: pointer;
+}
+
+.buttonWrapper {
+  display: flex;
+}
